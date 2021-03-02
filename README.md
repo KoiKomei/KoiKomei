@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Got my degree in Computer Science at Università della Calabria (UNICAL) in Italy.
+- Actually working as a Big Data, Microservice and Business service developer for Infoedge Technology.
+- In my free time I either draw or make code.
+- Working on 2 game projects, an RPG and a Metroidvania, they will be ready when they are ready.
+- Social media sucks but you can find me on [Twitter](https://twitter.com/HDD_Neptune) if you want to be flooded by art retweets.
