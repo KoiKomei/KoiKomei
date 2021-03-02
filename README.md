@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Alex, known online as Koi 
 
 <!--
 **KoiKomei/KoiKomei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Got my degree in Computer Science at Università della Calabria (UNICAL) in Italy.
+- I live in Italy
+- I have a degree in Computer Science obtained at the Università della Calabria (UNICAL) in Italy.
 - Actually working as a Big Data, Microservice and Business service developer for Infoedge Technology.
-- In my free time I either draw or make code.
+- In my free time I either draw, make code or play fighting games.
 - Working on 2 game projects, an RPG and a Metroidvania, they will be ready when they are ready.
 - Social media sucks but you can find me on [Twitter](https://twitter.com/HDD_Neptune) if you want to be flooded by art retweets.
