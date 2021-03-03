@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - Actually working as a Big Data and Microservices developer for Infoedge Technology.
 - Mostly code in Java because of work, but I do pretty well with C#(Unity), Python, Scala and Javascript.
 - In my free time I either draw, make code or play fighting games.
-- Working on 2 game projects, an RPG and a Metroidvania, they will be ready when they are ready.
+- Working on 2 game projects, a RPG and a Metroidvania, they will be ready when they are ready.
 - Social media sucks but you can find me on [Twitter](https://twitter.com/HDD_Neptune) if you want to be flooded by art retweets.
 - Fun fact: I have a weird obsession with C++ but never actually learnt it as well as other languages.
