@@ -1,4 +1,4 @@
-### Hi there, I'm Alex, known online as Koi 
+### Hi I'm Koi 
 
 <!--
 **KoiKomei/KoiKomei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
