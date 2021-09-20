@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I live in Italy
-- I have a degree in Computer Science obtained at the Università della Calabria (UNICAL) in Italy.
+- I have a degree in Computer Science achieved at the Università della Calabria (UNICAL) in Italy.
 - Actually working as a Big Data and Microservices developer for Infoedge Technology.
 - Mostly code in Java because of work, but I do pretty well with C#(Unity), Python, Scala and Javascript.
 - In my free time I either draw, make code or play fighting games.
